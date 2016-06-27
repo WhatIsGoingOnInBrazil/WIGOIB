@@ -33,7 +33,7 @@
 
   - [Video subtitles](What Is Going On In Brazil - Episode 2 - Impeachment - Why.srt) in English (closed captions) - [\[vtt format\]](What Is Going On In Brazil - Episode 2 - Impeachment - Why.vtt)
 
-  - [GitHub folder]()
+  - [GitHub folder](https://github.com/WhatIsGoingOnInBrazil/WIGOIB/tree/master/Episode%202%20-%20Impeachment%20-%20Why)
 
 - Media
 
@@ -49,7 +49,7 @@
 
   - [Almost in F](http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100394), from [Kevin MacLeod](https://en.wikipedia.org/wiki/Kevin_MacLeod_%28musician%29)
 
-## Episódio 1 - O Básico
+## Episódio 2 - Impeachment. Por Que?
 
 ### Português
 
@@ -77,7 +77,7 @@
 
   - [Legendas do vídeo](O Que Está Acontecendo No Brasil - Episódio 2 - Impeachment - Por Que.srt) - [\[formato vtt\]](O Que Está Acontecendo No Brasil - Episódio 2 - Impeachment - Por Que.vtt)
 
-  - [Pasta no GitHub]()
+  - [Pasta no GitHub](https://github.com/WhatIsGoingOnInBrazil/WIGOIB/tree/master/Episode%202%20-%20Impeachment%20-%20Why)
 
 - Mídia
 
