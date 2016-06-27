@@ -24,7 +24,7 @@
 
   - [Video subtitles](What Is Going On In Brazil - Episode 1 - The Basics.srt) in English (closed captions) - [\[vtt format\]](What Is Going On In Brazil - Episode 1 - The Basics.vtt)
 
-  - [GitHub folder]()
+  - [GitHub folder](https://github.com/WhatIsGoingOnInBrazil/WIGOIB/tree/master/Episode%201%20-%20The%20Basics)
 
 - Media
 
@@ -60,7 +60,7 @@
 
   - [Legendas do vídeo](O Que Está Acontecendo No Brasil - Episódio 1 - O Básico.srt) - [\[formato vtt\]](O Que Está Acontecendo No Brasil - Episódio 1 - O Básico.vtt)
 
-  - [Pasta no GitHub]()
+  - [Pasta no GitHub](https://github.com/WhatIsGoingOnInBrazil/WIGOIB/tree/master/Episode%201%20-%20The%20Basics)
 
 - Mídia
 
